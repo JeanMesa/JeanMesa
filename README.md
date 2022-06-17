@@ -1,0 +1,5 @@
+- 👋 Hey! I’m @JeanMesa
+- 👀 Love building smooth Web Apps, learning about ML & AI, analyzing data, and trying to automate everything ;)
+- 🌱 I’ve committed to maintaining a life of learning and uncovering the truths and secrets of this beautiful world we live in (any Nen masters out there? haha)
+- 💞️ Looking to collaborate on what would be my first open source project - any ideas?
+- 📫 Twitter: @DigitalBizkit
